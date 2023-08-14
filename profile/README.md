@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/company/flipo-eyewear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/company/flipo-eyewear" height="30" width="40" /></a>
+<a href="https://linkedin.com/company/flipo-eyewear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/company/flipo-eyewear" height="30" width="40" /></a>
 <a href="https://instagram.com/flipoeyewear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flipoeyewear" height="30" width="40" /></a>
 </p>
 <br>
